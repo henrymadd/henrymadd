@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henrymadd
 - 👀 I’m interested in ... changing career directions.
-- 🌱 I’m currently learning ... web development
+- 🌱 I’m currently learning ... web development.
 - 💞️ I’m looking to collaborate on ... no one yet.
 - 📫 How to reach me ... henrymadd@protonmail.com
 
